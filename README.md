@@ -28,3 +28,7 @@
 * Role of modularity in programming-in-the-large: Interface specifications, abstract data types. Language support for modular programming, interface checking as type checking. Module composition as function application.
 * Concurrency. Asynchronous computation as a paradigm, coordination through communication; language mechanisms for organizing and controlling communication.
 * Translation of principles into programming in mainstream, non-functional languages.
+
+To ground our discussions, we will need to write programs in a real programming language. The language we will used is called OCaml.
+
+Something to realize with regard to the list of topics above: these are topics that several of my colleagues and I concluded a few years ago would be great to provide you exposure to at this stage of your learning but not all of them have to be covered to make this a successful course. We will make some decisions as the semester moves along about what to focus on more sharply and, correspondingly, what to leave out to create more time for the selected topics. In making these decisions, I will take into account what absolutely must be covered and also where I sense the interests of the class to lie.
